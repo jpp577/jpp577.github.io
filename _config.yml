@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peipei's Homepage"
 title_separator          : "-"
 name                     : &name "Peipei Jiang"
-description              : &description "Ph.D. candidate"
+description              : &description "ppjiang@whu.edu.cn"
 url                      : https://jpp577.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peipei Jiang"
+  name             : "Peipei Jiang (江沛佩)"
   avatar           : "photo2.jpg"
-  bio              : "Ph.D candidate"
-  location         : "Hong Kong"
+  bio              : #"Ph.D candidate"
+  location         : "Hong Kong ASR, China"
   employer         :
   #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BJcpZ4MAAAAJ&hl=en"
-  email            :
+  email            : "pp.jiang@my.cityu.edu.hk // ppjiang@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

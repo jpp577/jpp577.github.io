@@ -1,5 +1,5 @@
 ---
-title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN))"
+title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=BJcpZ4MAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-* <b><font color=#006400>Boomerang: Metadata-Private Messaging under Hardware Trust</font></b>.<br>
+* <font color=#006400>**Boomerang: Metadata-Private Messaging under Hardware Trust**</font>.<br>
 **Peipei Jiang**, Qian Wang, Jianhao Cheng, Cong Wang, Lei Xu, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren<br>
 <i>NSDI 2023</i> (Accepted to appear)<br>
 
