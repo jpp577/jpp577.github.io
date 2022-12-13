@@ -6,8 +6,8 @@ author_profile: true
 ## 2023
 
 
-* <font color=darkblue><b>Boomerang: Metadata-Private Messaging under Hardware Trust</b></font><br>
-**Peipei Jiang**, Qian Wang, Jianhao Cheng, Cong Wang, Lei Xu, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren<br>
+* <b>Boomerang: Metadata-Private Messaging under Hardware Trust</b><br>
+<font color=darkblue><b>Peipei Jiang</b></font>, Qian Wang, Jianhao Cheng, Cong Wang, Lei Xu, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren<br>
 <i>NSDI 2023</i> (Accepted to appear)<br>
 
 ## 2022
