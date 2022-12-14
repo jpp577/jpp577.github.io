@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a joint Ph.D. student with Wuhan University and City University of Hong Kong, under the supervision of Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html) and Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I am broadly interested in privacy-enhancing technologies and anonymity in the context of networking and big data. I completed my B.S at Wuhan University in 2019 and graduated with honors.
+I am a joint Ph.D. student with Wuhan University and City University of Hong Kong, under the supervision of Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html) and Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I am broadly interested in privacy-enhancing technologies and anonymity in the context of networking and big data. I completed my B.S at Wuhan University in 2019 and was fortuanate to join and study in [NIS&P lab](http://nisplab.whu.edu.cn/index.html) since my sophomore year.
 
 
 News
