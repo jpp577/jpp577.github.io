@@ -13,5 +13,5 @@ I am a joint Ph.D. student with Wuhan University and City University of Hong Kon
 
 News
 ======
-- [Dec 2022] I got one paper accepted by NSDI'23!
+- [Dec 2022] I got one paper accepted by NSDI'23! [News from WHU](https://news.whu.edu.cn/info/1015/68499.htm).
 - [Dec 2022] I finally got this homepage done!
