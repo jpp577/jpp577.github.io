@@ -2,7 +2,9 @@
 permalink: /misc/
 title: "Misc."
 author_profile: true
-
+redirect_from:
+  - /misc/
+  - /misc.html
 ---
 ## Education 
 - City University of Hong Kong, Sept. 2020 - Present
@@ -39,4 +41,4 @@ author_profile: true
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Networking (TON)
   - IEEE Internet of Things Journal (IoTJ)
-  
+
