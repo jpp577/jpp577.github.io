@@ -2,9 +2,9 @@
 permalink: /misc/
 title: "Misc."
 author_profile: true
-redirect_from:
-  - /misc/
-  - /misc.html
+#redirect_from:
+#  - /misc/
+#  - /misc.html
 ---
 ## Education 
 - City University of Hong Kong, Sept. 2020 - Present
