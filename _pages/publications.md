@@ -9,7 +9,12 @@ author_profile: true
 
 * <b>Boomerang: Metadata-Private Messaging under Hardware Trust</b><br>
 **Peipei Jiang**, Qian Wang, Jianhao Cheng, Cong Wang, Lei Xu, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren<br>
-<i>NSDI 2023</i> (Accepted to appear)<br>
+<i>NSDI 2023</i> [[PDF]](https://www.usenix.org/conference/nsdi23/presentation/jiang) [[CODE]](https://github.com/CongGroup/boomerang)<br>
+
+* <b>Shielding Graph for eXact Analytics with SGX</b><br>
+Minxin Du, **Peipei Jiang**, Qian Wang, Sherman S. M. Chow, and Lingchen Zhao<br>
+<i>IEEE Transactions on Dependable and Secure Computing (TDSC) </i> [[PDF]](https://ieeexplore.ieee.org/document/10032586)<br>
+
 
 ## 2022
 
