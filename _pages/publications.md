@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 (*: equal contribution)
+
+## 2024
+
+* <b>Perception-driven Imperceptible Adversarial Attack against Decision-based Black-box Models</b><br>
+Shenyi Zhang, Baolin Zheng, **Peipei Jiang**, Lingchen Zhao, Chao Shen, and Qian Wang<br>
+<i>IEEE Transactions on Information Forensics and Security (TIFS) 2024</i> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10415445)<br>
+
+
 ## 2023
 
 
