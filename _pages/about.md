@@ -12,7 +12,7 @@ I am currently a postdoctoral fellow at City University of Hong Kong. I complete
 
 News
 ======
-- [Nov 2024] We got one paper accepted by NDSS '25!
+- [Nov 2024] We got one paper accepted by NDSS 2025!
 - [May 2024] I successfully defended my doctoral thesis. 
-- [Dec 2022] We got one paper accepted by NSDI '23! [News from WHU](https://news.whu.edu.cn/info/1015/68499.htm).
+- [Dec 2022] We got one paper accepted by NSDI 2023! [News from WHU](https://news.whu.edu.cn/info/1015/68499.htm).
 - [Dec 2022] I finally got this homepage done!
