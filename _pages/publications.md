@@ -5,6 +5,12 @@ author_profile: true
 ---
 (*: equal contribution)
 
+## 2025
+* <b>Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle</b><br>
+Wentao Dong, **Peipei Jiang**, Huayi Duan, Cong Wang, Lingchen Zhao, and Qian Wang<br>
+<i>NDSS 2025</i> (Accepted to appear)<br>
+
+
 ## 2024
 
 * <b>Perception-driven Imperceptible Adversarial Attack against Decision-based Black-box Models</b><br>

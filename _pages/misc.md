@@ -7,18 +7,19 @@ author_profile: true
 #  - /misc.html
 ---
 ## Education 
-- City University of Hong Kong, Sept. 2020 - Present
+- City University of Hong Kong, Sept. 2020 - June 2024
   - WHU-CityU joint PhD student. Supervisor: Prof. Cong Wang
   - Department of Computer Science
-- Wuhan University, Spet. 2019 - Present
+- Wuhan University, Spet. 2019 - June 2024
   - PhD student. Supervisor: Prof. Qian Wang
   - School of Cyber Science and Engineering
-- Wuhan University, Sept. 2015 - Jun. 2019
+- Wuhan University, Sept. 2015 - June 2019
   - B.S, Information security
   - GPA: 3.90/4.00, Rank: 1/153
 
 ## Awards and honors
 ### Scholarships
+* Outstanding Academic Performance Scholarship, The First Class Award, Wuhan University, Dec. 2023
 * National Scholarship for Ph.D Students, China, Dec. 2022
 * Excellent Freshman Scholarship for Postgraduate, Outstanding Award (Top 1%), Wuhan University, Oct. 2019
 * Cyber Security Scholarship, China, Oct. 2018
@@ -39,7 +40,10 @@ author_profile: true
 
 ## Services
 - Reviwer:
+  - ACM WWW 2024, 2025
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Networking (TON)
   - IEEE Internet of Things Journal (IoTJ)
+  - ACM Transactions on Cyber-Physical Systems
+  - ACM Transactions on Internet Technology
 
