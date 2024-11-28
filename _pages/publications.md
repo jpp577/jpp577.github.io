@@ -14,7 +14,7 @@ Wentao Dong, **Peipei Jiang**, Huayi Duan, Cong Wang, Lingchen Zhao, and Qian Wa
 ## 2024
 
 * <b>More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor</b><br>
-* Yunjie Ge, Pinji Chen, Qian Wang, Lingchen Zhao, Ningping Mou, **Peipei Jiang**, Cong Wang, Qi Li, and Chao Shen<br>
+Yunjie Ge, Pinji Chen, Qian Wang, Lingchen Zhao, Ningping Mou, **Peipei Jiang**, Cong Wang, Qi Li, and Chao Shen<br>
 <i>USENIX Security 2024</i> [[PDF]](https://www.usenix.org/conference/usenixsecurity24/presentation/ge-attacks)<br>
 
 
@@ -29,7 +29,7 @@ Shenyi Zhang, Baolin Zheng, **Peipei Jiang**, Lingchen Zhao, Chao Shen, and Qian
 
 * <b>Poster: Metadata-Private Messaging without Coordination</b><br>
 **Peipei Jiang**, Qian Wang, Yihao Wu, and Cong Wang<br>
-<i>CCS 2023, Poster session</i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3576915.3624385)<br>
+<i>CCS 2023, Poster session</i> [[PDF]](https://dl.acm.org/doi/abs/10.1145/3576915.3624385)<br>
 
 * <b>Boomerang: Metadata-Private Messaging under Hardware Trust</b><br>
 **Peipei Jiang**, Qian Wang, Jianhao Cheng, Cong Wang, Lei Xu, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren<br>
