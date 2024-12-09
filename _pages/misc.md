@@ -22,7 +22,7 @@ author_profile: true
 * Outstanding Academic Performance Scholarship, The First Class Award, Wuhan University, Dec. 2023
 * National Scholarship for Ph.D Students, China, Dec. 2022
 * Excellent Freshman Scholarship for Postgraduate, Outstanding Award (Top 1%), Wuhan University, Oct. 2019
-* Cyber Security Scholarship, China, Oct. 2018
+* [Cyber Security Scholarship][http://www.cidf.net/2018-08/23/c_1123316483.htm], China, Oct. 2018
 * National Scholarship for Undergraduate Students, China, Dec. 2018
 * National Scholarship for Undergraduate Students, China, Dec. 2017
 * The First Class Scholarship, Wuhan University, Dec. 2016
