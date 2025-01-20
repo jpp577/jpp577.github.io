@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral fellow (researcher) at [Laboratory for AI-Powered Financial Technologies Ltd (HKAIFT)](https://hkaift.com/). I completed my Ph.D. training jointly at Wuhan University and City University of Hong Kong, under the supervision of Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html) and Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I am broadly interested in privacy-enhancing technologies and anonymity in the context of networking and big data. I completed my B.S at Wuhan University in 2019 and was fortuanate to join and study in [NIS&P lab](https://nisplab.whu.edu.cn/) since my sophomore year.
+I am currently a postdoctoral fellow (researcher) at [Laboratory for AI-Powered Financial Technologies Ltd (HKAIFT)](https://hkaift.com/). I completed my Ph.D. training jointly at Wuhan University and City University of Hong Kong, under the supervision of Prof. [Qian Wang](https://nisplab.whu.edu.cn/People.htm) and Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I am broadly interested in privacy-enhancing technologies and anonymity in the context of networking and big data. I completed my B.S at Wuhan University in 2019 and was fortuanate to join and study in [NIS&P lab](https://nisplab.whu.edu.cn/) since my sophomore year.
 
 
 News
