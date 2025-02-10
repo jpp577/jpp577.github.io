@@ -17,6 +17,10 @@ Wentao Dong, **Peipei Jiang**, Huayi Duan, Cong Wang, Lingchen Zhao, and Qian Wa
 Yunjie Ge, Pinji Chen, Qian Wang, Lingchen Zhao, Ningping Mou, **Peipei Jiang**, Cong Wang, Qi Li, and Chao Shen<br>
 <i>USENIX Security 2024</i> [[PDF]](https://www.usenix.org/conference/usenixsecurity24/presentation/ge-attacks)<br>
 
+* <b> Hijacking Attacks against Neural Network by Analyzing Training Data</b><br>
+Yunjie Ge, Qian Wang, Huayang Huang, Qi Li, Cong Wang, Chao Shen, Lingchen Zhao, **Peipei Jiang**, Zheng Fang, and Shenyi Zhang<br>
+<i>USENIX Security 2024</i> [[PDF]](https://www.usenix.org/conference/usenixsecurity24/presentation/ge-hijacking)<br>
+
 
 * <b>Perception-driven Imperceptible Adversarial Attack against Decision-based Black-box Models</b><br>
 Shenyi Zhang, Baolin Zheng, **Peipei Jiang**, Lingchen Zhao, Chao Shen, and Qian Wang<br>
