@@ -6,16 +6,26 @@ author_profile: true
 #  - /misc/
 #  - /misc.html
 ---
-## Education 
+## Working Experience
+- Laboratory for AI-Powered Financial Technologies Ltd., Hong Kong, Dec. 2024 - Now
+  - Position: Researcher
+  - Host: Prof. Xiaohua Jia
+- City University of Hong Kong, Hong Kong, July 2024 - Dec. 2024
+  - Position: Postdoctoral Fellow
+  - Host: Dr. Qingchuan Zhao
+
+## Education Experience
 - City University of Hong Kong, Sept. 2020 - June 2024
   - WHU-CityU joint PhD student. Supervisor: Prof. Cong Wang
   - Department of Computer Science
+  - Main courses: Algorithms and Game Theory (A) 
 - Wuhan University, Spet. 2019 - June 2024
   - PhD student. Supervisor: Prof. Qian Wang
   - School of Cyber Science and Engineering
 - Wuhan University, Sept. 2015 - June 2019
   - B.S, Information security
   - GPA: 3.90/4.00, Rank: 1/153
+  - Main courses: Operating Systems (100), Mathematics for Information Security (99), Data Structure (97), Principles of Compiler (96), Cryptology (94), Computer Networks (92), Software Security (92)
 
 ## Awards and honors
 ### Scholarships
