@@ -3,12 +3,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(*: equal contribution)
+(*: equal contribution; #: corresponding author)
 
 ## 2025
+* <b>SONICUMOS: An Enhanced Active Face Liveness Detection System via Ultrasonic and Video Signals</b><br>
+Yihao Wu, **Peipei Jiang#**, Jianhao Cheng, Lingchen Zhao#, Chao Shen, Cong Wang, and Qian Wang<br>
+<i>IEEE Transactions on Mobile Computing (TMC)</i> (Accepted to appear) [[PDF]](https://ieeexplore.ieee.org/document/10980198)<br>
+
 * <b>Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle</b><br>
 Wentao Dong, **Peipei Jiang**, Huayi Duan, Cong Wang, Lingchen Zhao, and Qian Wang<br>
-<i>NDSS 2025</i> (Accepted to appear)<br>
+<i>NDSS 2025</i> [[PDF]](https://www.ndss-symposium.org/ndss-paper/ring-of-gyges-accountable-anonymous-broadcast-via-secret-shared-shuffle/)<br>
 
 
 ## 2024
