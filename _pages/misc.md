@@ -39,7 +39,7 @@ author_profile: true
 
 
 ### Awards
-* the Doctoral Dissertation Award of the Chinese Institute of Electronics, 2024
+* Doctoral Dissertation Award of the Chinese Institute of Electronics, 2024
 * NSDI travel grant, 2023
 * Merit Student, Wuhan University, 2022
 * Outstanding Undergraduate, Wuhan University, 2019
