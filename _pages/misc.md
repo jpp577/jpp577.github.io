@@ -16,14 +16,13 @@ author_profile: true
 
 ## Education Experience
 - City University of Hong Kong, Sept. 2020 - June 2024
-  - WHU-CityU joint PhD student. Supervisor: Prof. Cong Wang
+  - Ph.D. training in Computer Science
   - Department of Computer Science
-  - Main courses: Algorithms and Game Theory (A) 
 - Wuhan University, Spet. 2019 - June 2024
-  - PhD student. Supervisor: Prof. Qian Wang
+  - Ph.D. training in Cyber Science and Engineering
   - School of Cyber Science and Engineering
 - Wuhan University, Sept. 2015 - June 2019
-  - B.S, Information security
+  - B.S. in Information Security
   - GPA: 3.90/4.00, Rank: 1/153
   - Main courses: Operating Systems (100), Mathematics for Information Security (99), Data Structure (97), Principles of Compiler (96), Cryptology (94), Computer Networks (92), Software Security (92)
 
@@ -50,7 +49,7 @@ author_profile: true
 
 
 ## Services
-- Reviwer:
+- Reviewer:
   - ACM WWW 2024, 2025
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Networking (TON)
