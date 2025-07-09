@@ -18,9 +18,11 @@ author_profile: true
 - City University of Hong Kong, Sept. 2020 - June 2024
   - Ph.D. in Computer Science
   - Department of Computer Science
+  - Thesis: Enabling Metadata-private Communication at Scale
 - Wuhan University, Sept. 2019 - June 2024
   - Ph.D. in Cyberspace Security
   - School of Cyber Science and Engineering
+  - Thesis: 元数据隐私保护的加密通信关键技术研究
 - Wuhan University, Sept. 2015 - June 2019
   - B.S. in Information Security
   - GPA: 3.90/4.00, Rank: 1/153
