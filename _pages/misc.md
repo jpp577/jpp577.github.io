@@ -28,7 +28,7 @@ author_profile: true
   - GPA: 3.90/4.00, Rank: 1/153
   - Main courses: Operating Systems (100), Mathematics for Information Security (99), Data Structure (97), Principles of Compiler (96), Cryptology (94), Computer Networks (92), Software Security (92)
 
-## Awards and honors
+## Awards and Honors
 ### Scholarships
 * Outstanding Academic Performance Scholarship, The First Class Award, Wuhan University, Dec. 2023
 * National Scholarship for Ph.D. Students, China, Dec. 2022
