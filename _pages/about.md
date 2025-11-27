@@ -12,7 +12,8 @@ I am currently a postdoctoral fellow (researcher) at [Laboratory for AI-Powered 
 
 News
 ======
-- [Jun. 2025] My thesis received the Doctoral Dissertation Award of the Chinese Institute of Electronics! [News from WHU](https://news.whu.edu.cn/info/1015/482287.htm).
+- [Oct 2025] We got one paper accepted by IEEE/ACM ToN!
+- [Jun 2025] My thesis received the Doctoral Dissertation Award of the Chinese Institute of Electronics! [News from WHU](https://news.whu.edu.cn/info/1015/482287.htm).
 - [Apr 2025] We got one paper accepted by IEEE TMC!
 - [Nov 2024] We got one paper accepted by NDSS 2025!
 - [May 2024] I successfully defended my doctoral thesis. 

@@ -6,9 +6,18 @@ author_profile: true
 (*: equal contribution; #: corresponding author)
 
 ## 2025
+
+* <b>Scaling Metadata-private Messaging under Hardware Trust</b><br>
+**Peipei Jiang**, Yihao Wu, Jianhao Cheng, Lei Xu, Shenglong Yao, Qian Wang, Cong Wang, and Kui Ren<br>
+<i>IEEE Transactions on Networking (ToN)</i> (Accepted to appear) [[PDF]](https://ieeexplore.ieee.org/document/11236977)<br>
+
+
+
+IEEE/ACM Transactions on Networking 2025 (Accepted to appear)
+
 * <b>SONICUMOS: An Enhanced Active Face Liveness Detection System via Ultrasonic and Video Signals</b><br>
 Yihao Wu, **Peipei Jiang#**, Jianhao Cheng, Lingchen Zhao#, Chao Shen, Cong Wang, and Qian Wang<br>
-<i>IEEE Transactions on Mobile Computing (TMC)</i> (Accepted to appear) [[PDF]](https://ieeexplore.ieee.org/document/10980198)<br>
+<i>IEEE Transactions on Mobile Computing (TMC)</i> [[PDF]](https://ieeexplore.ieee.org/document/10980198)<br>
 
 * <b>Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle</b><br>
 Wentao Dong, **Peipei Jiang**, Huayi Duan, Cong Wang, Lingchen Zhao, and Qian Wang<br>
