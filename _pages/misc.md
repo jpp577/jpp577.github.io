@@ -26,7 +26,7 @@ author_profile: true
 - Wuhan University, Sept. 2015 - June 2019
   - B.S. in Information Security
   - GPA: 3.90/4.00, Rank: 1/153
-  - Main courses: Operating Systems (100), Mathematics for Information Security (99), Data Structure (97), Principles of Compiler (96), Cryptology (94), Computer Networks (92), Software Security (92)
+  - Main courses: Operating Systems (100), Mathematics for Information Security (99), Data Structure (97), Principles of Compiler (96), Cryptography (94), Computer Networks (92), Software Security (92)
 
 ## Awards and Honors
 ### Scholarships
